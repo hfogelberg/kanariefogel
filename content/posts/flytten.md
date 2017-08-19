@@ -1,6 +1,6 @@
 +++
 date = "2015-08-10T10:09:59+01:00"
-draft = true
+draft = false
 title = "Den stora flyttdagen"
 +++
 

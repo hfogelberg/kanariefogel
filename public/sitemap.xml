@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/posts/243/</loc>
+    <lastmod>2015-08-20T14:22:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/el-pino-gordo/</loc>
+    <lastmod>2015-08-19T19:57:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/ett-kvallsnoje/</loc>
+    <lastmod>2015-08-17T11:21:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/framme/</loc>
+    <lastmod>2015-08-13T17:32:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/flytten/</loc>
+    <lastmod>2015-08-10T10:09:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2015-08-20T14:22:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2015-08-20T14:22:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

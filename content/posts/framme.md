@@ -1,7 +1,7 @@
 +++
 date = "2015-08-13T17:32:43+01:00"
 title = "Äntligen framme"
-draft = true
+draft = false
 +++
 Efter en mycket lång dag var vi äntligen framme i Los Cristianos. Tack vare GPS:en i mobilen (och den fenomenala appen Here) lyckades vi hitta fram till den slingriga gatan Calle La Montaña. Utan GPS hade vi letat fortfarande.
 

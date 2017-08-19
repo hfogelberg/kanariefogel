@@ -1,7 +1,7 @@
 +++
 date = "2015-08-17T11:21:57+01:00"
 title = "Ett kvällsnöje"
-draft = true
+draft = false
 +++
 
 Varje kväll får vi lite gratis underhållning från balkongen. Parkeringen skall organiseras. Gatan vi bor på är inte gjord för bilar och definitivt inte så många bilar som skall parkeras längs den. Det som gäller är fickparkering och det är inte så lätt med tanke på hur brant och krokig gatan bitvis är. Bilarna står lite hur som helst. Är där en gul linje (parkeringsförbud) står man på trottoaren i stället. Där finns ju ingen gul linje.

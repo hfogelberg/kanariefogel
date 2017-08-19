@@ -1,7 +1,7 @@
 +++
 date = "2015-08-19T19:57:19+01:00"
 title = "El Piño Gordo"
-draft = true
+draft = false
 +++
 Södra Teneriffa är inte bara stränder, hotell och tingel-tangel. Om man kör från Los Cristianos upp mot bergen och passerar Val San Lorenzo och Villaflor hamnar man så småningom i en underbar pinjeskog.
 
