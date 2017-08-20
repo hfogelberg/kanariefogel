@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/badvakter/</loc>
+    <lastmod>2016-12-14T11:20:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/gazpacho/</loc>
+    <lastmod>2016-08-10T11:08:28+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/ny-lagenhet/</loc>
     <lastmod>2015-10-21T16:43:08+01:00</lastmod>
   </url>
@@ -74,13 +84,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2015-10-21T16:43:08+01:00</lastmod>
+    <lastmod>2016-12-14T11:20:24+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2015-10-21T16:43:08+01:00</lastmod>
+    <lastmod>2016-12-14T11:20:24+01:00</lastmod>
     <priority>0</priority>
   </url>
   

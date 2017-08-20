@@ -2,7 +2,6 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Kanariefogel"
 theme = "xmag"
-googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
@@ -10,6 +9,7 @@ footnotereturnlinkcontents = "↩"
 hasCJKLanguage = true
 enableEmoji = true
 paginate = 6
+googleAnalytics = "UA-104971743-1"
 
 [permalinks]
 	post = "/post/:year/:month/:day/:slug/"
@@ -19,5 +19,5 @@ paginate = 6
     summary_length = 300
   
 [params.text]
-    back = "&larr; Back to Home"
+    back = "&larr; Hem"
     truncated = "&hellip;"
