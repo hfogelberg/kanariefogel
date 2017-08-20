@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kanariefogel</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Kanariefogel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Aug 2015 18:34:59 +0100</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ett besök från havet</title>
+      <link>/post/2015/08/24/ett-bes%C3%B6k-fr%C3%A5n-havet/</link>
+      <pubDate>Mon, 24 Aug 2015 18:34:59 +0100</pubDate>
+      
+      <guid>/post/2015/08/24/ett-bes%C3%B6k-fr%C3%A5n-havet/</guid>
+      <description>Bland det första som åkte ned i resväskan var snorkel, cyklop och simfenor och de har använts flitigt.
+En av de närmaste stränderna, Playa las Vistas är vår favoritstrand för snorkling så här långt. Från lägenheten är det kanske tio minuter dit: till höger om dörren, ned för några vindlande trappor och sedan är man framme.
+Vad som gör den stranden så bra för snorkling är att ungefär 50 meter ut finns en lite konstgjord ö som fungerar som vågbrytare och där finns ett fantastiskt liv under vattenytan.</description>
+    </item>
+    
+    <item>
+      <title>Sommaren är annorlunda</title>
+      <link>/post/2015/08/17/sommaren-%C3%A4r-annorlunda/</link>
+      <pubDate>Mon, 17 Aug 2015 19:32:22 +0100</pubDate>
+      
+      <guid>/post/2015/08/17/sommaren-%C3%A4r-annorlunda/</guid>
+      <description>Vi har varit många gånger på de olika kanarieöarna, men alltid på vintern. Mycket är sig likt, men det finns en stor skillnad.
+På alla restauranger, barer och kaféer är det fullt med folk, som alltid. Stränderna är välfyllda, som vanligt och alla turister flanerar fram och tillbaks längs strandpromenaden som vanligt.
+Vad som skiljer är de språk man hör. Mycket engelska (återigen som vanligt), betydligt mindre tyska, franska och holländska än vi är vana vid och mycket sällan svenska, norska eller danska.</description>
+    </item>
+    
+  </channel>
+</rss>

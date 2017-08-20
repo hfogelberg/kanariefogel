@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2015/08/24/ett-bes%C3%B6k-fr%C3%A5n-havet/</loc>
+    <lastmod>2015-08-24T18:34:59+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/243/</loc>
     <lastmod>2015-08-20T14:22:15+01:00</lastmod>
   </url>
@@ -10,6 +15,11 @@
   <url>
     <loc>/posts/el-pino-gordo/</loc>
     <lastmod>2015-08-19T19:57:19+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015/08/17/sommaren-%C3%A4r-annorlunda/</loc>
+    <lastmod>2015-08-17T19:32:22+01:00</lastmod>
   </url>
   
   <url>
@@ -34,13 +44,19 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2015-08-20T14:22:15+01:00</lastmod>
+    <lastmod>2015-08-24T18:34:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
     <lastmod>2015-08-20T14:22:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2015-08-24T18:34:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
