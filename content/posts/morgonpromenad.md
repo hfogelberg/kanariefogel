@@ -2,6 +2,7 @@
 date = "2015-09-22T11:21:14+01:00"
 title = "Morgonpromenad"
 draft = false
+thumbnail = "/img/croissant.jpg"
 +++
 
 ![Croissant](/img/croissant.jpg#center)

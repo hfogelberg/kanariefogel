@@ -2,6 +2,7 @@
 date = "2015-08-24T18:34:59+01:00"
 title = "Ett besök från havet"
 draft = false
+thumbnail = "/img/krabba.jpg"
 +++
 
 ![Eremitkräfta](/img/krabba.jpg#center)

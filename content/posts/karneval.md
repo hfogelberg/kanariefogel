@@ -2,6 +2,7 @@
 date = "2016-03-13T09:22:23+01:00"
 title = "Karnevalen i Los Cristianos"
 draft = false
+thumbnail = "/karneval/karneval_1.jpg"
 +++
 Karneval betyder "Förväl till kött" och inleder den katolska fastan. Traditionen är hundratals år gammal och eftersom man i Spanien aldrig missar en chans att ha fest firas det ordentligt! Störst är karnevalen i huvudstanden Santa Cruz de Tenerife - den näst största i världen efter Rio de Janeiro. 
 

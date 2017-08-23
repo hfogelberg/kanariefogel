@@ -2,6 +2,7 @@
 date = "2015-08-10T10:09:59+01:00"
 draft = false
 title = "Den stora flyttdagen"
+thumbnail = "/img/stressed.jpg"
 +++
 
 ![Stressed](/img/stressed.jpg#center)
