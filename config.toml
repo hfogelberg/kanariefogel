@@ -17,6 +17,7 @@ googleAnalytics = "UA-104971743-1"
 [params]
     description = "A website built through Hugo and blogdown."
     summary_length = 300
+    custom_css = ["/css/custom.css"]
   
 [params.text]
     back = "&larr; Hem"
