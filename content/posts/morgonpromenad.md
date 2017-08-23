@@ -4,6 +4,8 @@ title = "Morgonpromenad"
 draft = false
 +++
 
+![Croissant](/img/croissant.jpg#center)
+
 Varje morgon går vi föstås en runda med hundarna. Mornarna här är svala, friska, lugna och tysta och det brukar vara väldigt skönt att gå ut. Hundarna trivs och är pigga.
 
 På söndagarna brukar det bli en speciell runda. Vi går då till höger längs gatan,ned för en trappa och slingrar oss genom några smala, lite märkliga gränder. Allt är lugnt, stilla och tyst. Från de öppna fönstren hörs bara snarkningar och knirret från en säng när någon vänder sig. Möjligen möter man någon annan hundägare eller någon som skall börja jobbet tidigt.

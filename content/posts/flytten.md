@@ -4,6 +4,8 @@ draft = false
 title = "Den stora flyttdagen"
 +++
 
+![Stressed](/img/stressed.jpg#center)
+
 Fredag morgon och vi vaknar upp på ett hotellrum i Malmö, där vi mellanlandat innan avfärden från Kastrup. Klockan är sex, så det är gott om tid och allt är lugnt. Vi skall bara äta frukost och sedan släpa iväg fyra resväskor, handbagage, två hundburar och två hundar till flygplatsen och sedan checka in. Vad skulle kunna gå fel?
 
 På flygplatsen händer det. Flytet tar stopp och lugnet försvinner. Problem nummer ett. Hållaren till vattenskålen i den ena buren går sönder och måste improviserat lagas med tejp och snöre. Utan vattenskål ingen flygtur från hunden. Reglerna är tydliga. Klockan tickar och med andan i halsen rusar vi mot bagageinlämningen med alla våra vagnar och vid det här laget ganska förvånade hundar.

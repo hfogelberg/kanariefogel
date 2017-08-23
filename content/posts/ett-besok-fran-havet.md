@@ -3,6 +3,10 @@ date = "2015-08-24T18:34:59+01:00"
 title = "Ett besök från havet"
 draft = false
 +++
+
+![Eremitkräfta](/img/krabba.jpg#center)
+
+
 Bland det första som åkte ned i resväskan var snorkel, cyklop och simfenor och de har använts flitigt.
 
 En av de närmaste stränderna, Playa las Vistas är vår favoritstrand för snorkling så här långt. Från lägenheten är det kanske tio minuter dit: till höger om dörren, ned för några vindlande trappor och sedan är man framme. 
