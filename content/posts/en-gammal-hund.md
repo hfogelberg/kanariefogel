@@ -1,9 +1,9 @@
 +++
-date = "2017-08-23T11:33:13+01:00"
+date = "2016-01-08T11:33:13+01:00"
 title = "En gammal hund på Teneriffa"
-draft = true
+draft = false
 +++
-Vi har två hundar, Gramse och Obi. Obi är en fyra år gammal Sheltie som alltid är pigg, glad lekfull och nyfiken. Gramse är en tolv år gammal Västgötaspets som alltid är missnöjd, går omkring och muttrar, tycker det var bättre förr och inte vill ändra på någonting.
+Vi har två hundar, Gramse och Obi. Obi är en fem år gammal Sheltie som alltid är pigg, glad lekfull och nyfiken. Gramse är en tretton år gammal Västgötaspets som alltid är missnöjd, går omkring och muttrar, tycker det var bättre förr och inte vill ändra på någonting. Vi är nästan övertygade om att han är den enda västgötaspetsen på Kanarieöarna.
 
 Att Obi skulle följa med oss till Teneriffa var en självklarhet, men hur skulle vi göra med Gramse? Kan man verkligen ta med en så gammal och trött hund ända till Teneriffa? Efter mycket tvekande fick det bli så. Gramse flyttade med.
 
